@@ -1,7 +1,7 @@
 ---
-title: "My Journal"
+title: "My Lab Journal"
 subtitle: "Causal Data Science for Business Analytics"
-author: "Ali, Sheraz"
+author: "Sheraz Ali"
 ---
 
 ![](assets/logo/TIE_logo.svg){width=80% fig-align="center"}
