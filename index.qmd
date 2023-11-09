@@ -1,6 +1,6 @@
 ---
 title: "My Lab Journal"
-subtitle: "Causal Data Science for Business Analytics"
+subtitle: "Causal Data Science for Busines Analytics"
 author: "Sheraz Ali"
 ---
 
@@ -18,4 +18,4 @@ This is a template example for lab journaling. Students in the data science cour
 
 4. Change everything to make it your own.
 
-5. Make sure to render you website every time before you want to upload changes.
+5. Make sure to render you website every time before you want to upload change.
